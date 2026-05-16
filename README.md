@@ -1,1 +1,3 @@
-# 22MID0292
+# Logging Middleware
+
+Handles request logging for backend services.
