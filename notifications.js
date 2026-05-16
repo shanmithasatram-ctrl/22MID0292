@@ -1,1 +1,1 @@
-// Notification routes
+// Notifications page
